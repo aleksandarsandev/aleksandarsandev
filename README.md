@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aleksandar Sandev</h1>
 <h3 align="center">Software Engineer Student at FCSE - Skopje</h3>
-<img src="https://komarev.com/ghpvc/?username=aleksandarsandev&label=Profile%20views&color=0e75b6&style=flat" alt="aleksandarsandev" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
